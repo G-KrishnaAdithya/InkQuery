@@ -11,3 +11,6 @@ create a virtual env and activate it
 install requirements using pip install -r requirements.txt in project path
 run the below command in project path to run app
 python app.py
+
+Important :
+You need to have Tesseract OCR installed in your system
